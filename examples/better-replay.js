@@ -2,8 +2,6 @@
 // source with:
 //   > . examples/better-replay
 
-console.log('loaded!');
-
 // repeat the previous command on
 // blank lines. great for automating
 // things like `make test`.
@@ -23,4 +21,3 @@ function replay(e){
       break;
   }
 }
-

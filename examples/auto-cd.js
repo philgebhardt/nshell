@@ -2,7 +2,6 @@
 // source with:
 //   > . examples/auto-cd
 
-console.log('loaded!');
 
 // deps
 

@@ -2,8 +2,6 @@
 // source with:
 //   > . examples/auto-editor
 
-console.log('loaded!');
-
 // $ npm install mime
 
 var path = require('path');
